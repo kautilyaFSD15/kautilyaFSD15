@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web development projects.<br><br>👯 I’m looking to collaborate on<br>Web apps, full-stack projects, and open-source.<br><br>🤝 I’m looking for help with<br>Backend architecture, APIs, and system design.<br><br>🌱 I’m currently learning<br>Full-stack development, backend engineering, and databases.<br><br>💬 Ask me about<br>Web development, full-stack roadmap, Node.js, Express.js.
+🔭 I’m currently working on<br>Full-stack web development.<br><br>👯 I’m looking to collaborate on<br>Web apps, full-stack projects, and open-source.<br><br>🤝 I’m looking for help with<br>Frontend architecture , Backend architecture, APIs, and system design.<br><br>🌱 I’m currently learning<br>Full-stack development, backend engineering, and databases.<br><br>💬 Ask me about<br>Web development, full-stack roadmap, Node.js, Express.js.
 
 
 ## 🌐 Socials:
