@@ -12,7 +12,7 @@ Web apps, full-stack projects, and open-source.
 Frontend architecture , Backend architecture, APIs, and Frameworks.
 
 🌱 I’m currently learning
-Full-stack development, backend engineering, and databases.
+Full-stack development, backend engineering, Devops technologies and databases.
 
 💬 Ask me about
 Web development, full-stack roadmap, Node.js, Express.js.
