@@ -9,7 +9,7 @@ Full-stack web development.
 Web apps, full-stack projects, and open-source.
 
 🤝 I’m looking for help with
-Frontend architecture , Backend architecture, APIs, and system design.
+Frontend architecture , Backend architecture, APIs, and Frameworks.
 
 🌱 I’m currently learning
 Full-stack development, backend engineering, and databases.
