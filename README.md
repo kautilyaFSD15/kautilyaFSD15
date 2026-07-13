@@ -21,7 +21,7 @@ Web development, full-stack roadmap, Node.js, Express.js.
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kautilyashukla15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kautilyashukla15)
 <div align="center">
 
 <!-- HEADER -->
